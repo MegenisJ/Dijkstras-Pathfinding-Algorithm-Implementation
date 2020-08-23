@@ -1,4 +1,5 @@
 # Map-Read-Shortest-Path
+(University Coursework)
 Java program with 2 modes. 
 One to read a map from a specific text file format. Then output the structure of the map. 
 HOW TO USE. 
